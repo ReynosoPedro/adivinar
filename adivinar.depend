@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1646945602 source:c:\users\preynoso\desktop\programacion\adivinar\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	"funciones.h"
+
+1646945566 c:\users\preynoso\desktop\programacion\adivinar\funciones.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+
